@@ -1,5 +1,5 @@
 # VLIW-Architecture
-A Python - Verilog combination that simulates the working of a 32-bit 5-stage VLIW processor from input assembly code while monitoring the updates in the processor register file.
+A Python - Verilog combination that simulates the working of a 32-bit 5-stage pipelined VLIW processor from input assembly code while monitoring the updates in the processor register file.
 
 The VLIW processor contains the following modules:
 - Two 32-bit pipelined recursive doubling adders
